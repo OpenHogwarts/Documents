@@ -1,0 +1,43 @@
+Encantamiento girador o volteador:Tornus
+Encantamiento de desactivacion o finalizacion:Finite incantatem.
+Encant. de movilidad: locomotor.
+Encant. escudo:Protego.
+Encant. desecador:siccavi.
+Encant. que invoca chispas rojas para alertar a la gente:pericullum
+
+
+Un encantamiento añades propiedades a algo, con una transformación cambias su naturaleza por completo, alterándose su estructura molecular
+Los Encantamientos son en muchos sentidos lo contrario a las Maldiciones: muchos encantamientos son positivos (ej. Encantamiento Cosquilleante) mientras que las maldiciones son inherentemente negativas. Esto no quiere decir que los Encantamientos sean magia menos poderosa; un Encantamiento bien elegido es una poderosa herramienta mágica contra las maldiciones, malos hechizos y maleficios.
+
+Alohomora:
+Significa “favorable a los ladrones”. Éste hechizo se utiliza para abrir una puerta o una ventana cerrada. Sin embargo, no abre puertas selladas mágicamente, aunque funciona contra el hechizo “Colloportus.”
+Colloportus:
+Este hechizo se utiliza para sellar puertas mágicamente, pero no es particularmente efectivo. Puede ser contrarestado fácilmente con el hechizo Alohomora.
+Wingardium leviosa:
+Tomado en parte de la raíz Latina “levo,” que significa “elevar o levantar.” Éste hechizo causa la levitación de un objeto. Una vez levitando, el objeto puede ser manipulado en el aire por quien lo conjura.
+Protego:
+Es el Latín de “proteger”. Es el Encantamiento Escubobbarea un escudo mágico para desviar hechizos menores o moderados, realizados por otras personas.
+
+Encantamiento seccionador:
+
+Encantamiento pelador: Corticem detraho, lo que haces es ir seccionando de tal forma que separa la corteza, piel, lamina. Ej: La piel de una fruta, sobre un humano, la epidermis, sobre un sofá, un tapizado.
+
+Frugivia: Invoca cualquier fruta que tengas en mente.
+
+Encantamientos de viscosidad:
+
+Fluxum, encantamiento en flujo: este encantamiento sirve para hacer fluir liquidos/gases por conductos a la dirección que apuntes. Ej: Una fuente tene un deposito de agua porque hay una bomba o una diferencia de presion pues aunque no hubiese nada de eso funcionando al usar Fluxum nosotros hariamos fluir el agua a la salida
+
+Obstruo encantamiento obstructor: Hace justo todo lo contrario que fluxum.
+
+Denso, encantamiento densificador: Hace que una sustancia aumente su densidad se vuelva más compacta en menos volumen, le da el puntito perfecto a la solución hipotusiva, para dejarlos en forma de caramelo y que sea mas facil de ingerir o a la crecepelo para que sea mas gel y mas facil de usar en la ducha.
+
+Encantamientos explosivos:
+
+Bombarda: Provoca simplemente una aceleración en las particulas cercanas al flujo de magia que soltamos por la varita
+
+Encantamientos anticontacto:
+
+Relaskio: Se utiliza como forma de embrujo sobre personas de tal forma que si la persona ha sido afectada no podra tocarte. Se suele usar para no entar en contacto con seres vivos, si se usa cuando ese otros ser ya te tiene agarrado lo que notara es un quemazon.
+
+Innitor. Encantamiento plastificador, lo que hace es que recubre la superficie de un film transparente evitando el contacto directo con todo lo que toques.

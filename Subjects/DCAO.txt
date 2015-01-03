@@ -1,0 +1,80 @@
+
+
+- Cornulag (Maleficio lengua cuerno): Hace que crezcan un cuerno en la lengua del hechizado.
+Se quita con FINITE.
+
+- Ageo supercillium (Maleficio crece-cejas): Hace que a la persona hechizada le crezcan las cejas mucho.
+Para anularlo, deberemos utilizar el mismo metodo de densaugeo.
+
+Offensio.
+Maleficio zancadilla. Hace caer a todas las personas donde se haya aplicado este
+maleficio. Se debe apuntar al objeto.
+
+Provocco sternuttatio.
+Maleficio estornudador.
+Hace que provoque una serie de estornudos repetidos a la persona hechizada durante un minuto.
+Para anularlo apuntar a la cabeza y usar finite o simplemente esperar un minuto.
+
+Inmovilus.
+Maleficio de la inmovilidad parcial, hace que la persona hechizada no se mueva.
+
+Furnunculus.
+Maleficio de los furnunculos, hace que la persona hechizada con este maleficio salgan
+horribles verrugas, granos y pustulas.
+Para anularlo se debe apuntar al cuerpo y tulizar finite incantatem.
+y continuamente una pocion embellecedora.
+
+Volate ascendere.
+Maleficio hinchador. Maleficio que hincha a la persona hechizada y hace que esta salga volando.
+Se debe apuntar al cuerpo y hacer finite incantatem para anularlo.
+
+Cadovillus.
+Malficion de la perdida de bello, hace que la persona hechiza pierda totamente el bello
+del cuerpo o el bello de la zona apuntada. Se debe apuntar donde quiera que caiga o hacer un movimiento
+ascendente para la perdida total del bello.
+
+Langlock/Palalingua.
+Maleficio lengua enganchada al paladar. Hace que la persona hechizada con este maleficio se le pegue la lengua
+impidendo la pronunciacion correcta de los hechizos. se debe apuntar a la cabeza y usar finite para anularlo.
+
+Mimblewimble.
+Maleficio confundidor. Hace que la persona hechizada con este maleficio se sienta confundida, no sepa quienes son ciertas
+personas con capacidad de movimientos perdida de ofuscacion de los conocimientos.
+Se debe apuntar a las personas y usar finite incantatem.
+
+Acretum Unguis.
+Hace que crezcan las uñas 20 cm.
+
+Riddikulus.
+Hechizo Repele-Boggarts. 
+
+
+
+
+
+
+
+RARO
+
+
+Expelliarmus.
+Maleficio, no hace que las varitas salten. Sino, que produce una relajacion
+en los musculos del cuerpo. Los cuales se encuentre en tensional sujetar un objeto
+Al relajarse el musculo nose puede sostenter el objeto, por lo que cae. Sea cual sea ese
+objeto. Este maleficio hay veces que tiene extraños, en transformaciones la magia es un
+flujo que transcurre entre distintos nucleos esenciales, ejemplo: nuestra mente y la varita.
+Son los dos nucleos que utilizams con mayor frecuencia para liberar controladamente
+nuestra magia.En ciertas situaciones ya sea en circunstancias de tension, hostilidad,lo que
+sea, algunos hechizos no se comportan como deberian. expelliarmus raras veces se comporta como
+el uso de un flipendo, per aumentando el empujon.
+
+Protego.
+Al convocarle lo que hacemos es canalizar y concentrar parte de nuestro flujo magico.
+estos escudos que convocamos con el protego no son continuos. Estan llenos de
+agujeritos pequeños, el cual solo hay un maleficio que lo atraviese, el maleficio punzante.[Rectuso]
+Protego protege maleficios y maldiciones que no sean magia oscura. Para hacerlo hay que
+concentrarse mucho dependiendo de nuestra concentracion el protego sera mas, o menos potente
+y nos cubrira por completo u os dejara los pies o la cabeza al descubierto.
+Protego no solo es un escudo en una direccion por lo que para conjurarlo debemos orientar
+nuestra varita hacia la fuente del ataque y conjurarlo, cuando mas se aleje el escudo de la persona
+mas debil sera.
